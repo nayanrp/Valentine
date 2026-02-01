@@ -1,6 +1,3 @@
-<think>
-
-</think>
 
 <html lang="en">
 <head>
@@ -115,7 +112,7 @@
     <div id="after" class="container">
         <p>OH WOW!!! CHEEKY 😳💖</p>
         <p>YOU ARE SO BEAUTIFUL</p>
-        <img src="image/Kitten.jpg" alt="Cute kitten">
+        <img src="Kitten.png" alt="Cute kitten">
 
 
     </div>
