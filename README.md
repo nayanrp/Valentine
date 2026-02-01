@@ -1,7 +1,7 @@
 <think>
 
 </think>
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -115,7 +115,7 @@
     <div id="after" class="container">
         <p>OH WOW!!! CHEEKY 😳💖</p>
         <p>YOU ARE SO BEAUTIFUL</p>
-        <img src="Kitten.jpg" alt="Cute kitten">
+        <img src="image/Kitten.jpg" alt="Cute kitten">
 
 
     </div>
