@@ -115,7 +115,7 @@
     <div id="after" class="container">
         <p>OH WOW!!! CHEEKY 😳💖</p>
         <p>YOU ARE SO BEAUTIFUL</p>
-        <img src="Kitten.png" alt="Cute kitten">
+        <img src="(https://in.pinterest.com/aria_desai/cute-cattizz/)" alt="Cute kitten">
 
     </div>
 
