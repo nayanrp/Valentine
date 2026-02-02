@@ -112,7 +112,7 @@
     <div id="after" class="container">
         <p>OH WOW!!! CHEEKY 😳💖</p>
         <p>YOU ARE SO BEAUTIFUL</p>
-        <img src="Kitten.png" alt="Cute kitten">
+        <img src="Cheeky.jpeg" alt="Cute kitten">
 
 
     </div>
