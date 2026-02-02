@@ -103,7 +103,7 @@
 <body>
     <div id="initial" class="container">
         <h1 class="header">Will you be my Valentine?</h1>
-        <div class="kitten-emoji">🐱</div>
+        <img src="Kitten.png" alt="Kitten">
         <div class="buttons">
             <button id="yes">YES</button>
             <button id="no">NO</button>
